@@ -17,8 +17,8 @@ const upload = multer({ storage: storage });
 const connection = mysql.createConnection({ 
     host: 'localhost', 
     user: 'azure', 
-    password: '3TAhRx9Sq2*gFmt', 
-    database: 'freedb_c237db2302' 
+    password: '', 
+    database: '' 
 });
  
 connection.connect((err) => { 
