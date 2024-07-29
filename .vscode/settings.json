@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/20f7a1d8-32db-4ff3-b5b5-bc6a7ceeadcd/resourceGroups/C237CAMiniproj/providers/Microsoft.Web/sites/C237CAMiniproj",
+    "appService.deploySubpath": "."
+}
